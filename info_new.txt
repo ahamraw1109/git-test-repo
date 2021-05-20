@@ -1,1 +1,2 @@
 This is again a check for new addition.
+Hi, looks good for commit.
