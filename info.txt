@@ -1,2 +1,3 @@
 This page is for Git Test.
 I am updating it for no cause.
+Now I am doing this to check my merge code in master.
